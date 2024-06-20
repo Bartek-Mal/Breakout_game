@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "BREAKOUT\\x64\\Debug\\GameAudio.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Bartek\\Desktop\\career\\BREAKOUT\\BREAKOUT\\x64\\Debug\\vc143.pdb",
+                "BREAKOUT\\x64\\Debug\\",
+                "C:\\Users\\Bartek\\Desktop\\career\\BREAKOUT\\BREAKOUT\\x64\\Debug\\GameAudio.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "GameAudio",
+                    "source-path": "c:\\users\\bartek\\desktop\\career\\breakout\\gameaudio.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

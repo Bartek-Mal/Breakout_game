@@ -1,0 +1,158 @@
+﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
+  GameAudio.ixx
+  Trwa kompilowanie…
+  GameAudio.ixx
+  Ball.cpp
+C:\Users\Bartek\Desktop\career\BREAKOUT\Ball.cpp(14,24): warning C4244: "=": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Ball.cpp(14,24): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\Ball.cpp(14,24): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\Ball.cpp(14,24): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\Ball.cpp(14,24): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\Ball.cpp(15,25): warning C4244: "=": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Ball.cpp(15,25): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\Ball.cpp(15,25): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\Ball.cpp(15,25): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\Ball.cpp(15,25): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\Ball.cpp(19,17): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Ball.cpp(40,29): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Ball.cpp(58,21): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  Block.cpp
+  BlocksField.cpp
+C:\Users\Bartek\Desktop\career\BREAKOUT\BlocksField.cpp(39,63): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\BlocksField.cpp(39,63): warning C4267:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\BlocksField.cpp(39,63): warning C4267:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\BlocksField.cpp(39,63): warning C4267:             _Ty=int
+C:\Users\Bartek\Desktop\career\BREAKOUT\BlocksField.cpp(39,63): warning C4267:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\BlocksField.cpp(47,21): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\BlocksField.cpp(74,21): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Game.cpp
+C:\Users\Bartek\Desktop\career\BREAKOUT\Game.cpp(405,36): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  GlobalObjects.cpp
+C:\Users\Bartek\Desktop\career\BREAKOUT\GlobalObjects.cpp(5,67): warning C4244: "argument": konwersja z "const float" do "unsigned int", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\GlobalObjects.cpp(5,54): warning C4244: "argument": konwersja z "const float" do "unsigned int", możliwa utrata danych
+  main.cpp
+C:\Users\Bartek\Desktop\career\BREAKOUT\main.cpp(113,81): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\main.cpp(113,81): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\main.cpp(113,81): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\main.cpp(113,81): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\main.cpp(113,81): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\main.cpp(113,60): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\main.cpp(113,60): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\main.cpp(113,60): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\main.cpp(113,60): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\main.cpp(113,60): warning C4244:         ]
+  Menu.cpp
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(125,93): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(125,93): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(125,93): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(125,93): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(125,93): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(125,72): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(125,72): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(125,72): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(125,72): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(125,72): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(132,95): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(132,95): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(132,95): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(132,95): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(132,95): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(132,74): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(132,74): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(132,74): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(132,74): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(132,74): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(136,100): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(136,100): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(136,100): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(136,100): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(136,100): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(136,79): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(136,79): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(136,79): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(136,79): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(136,79): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(140,100): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(140,100): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(140,100): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(140,100): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(140,100): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(140,79): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(140,79): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(140,79): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(140,79): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(140,79): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(144,98): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(144,98): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(144,98): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(144,98): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(144,98): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(144,77): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(144,77): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(144,77): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(144,77): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(144,77): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(151,94): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(151,94): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(151,94): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(151,94): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(151,94): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(151,73): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(151,73): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(151,73): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(151,73): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(151,73): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(155,98): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(155,98): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(155,98): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(155,98): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(155,98): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(155,77): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(155,77): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(155,77): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(155,77): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(155,77): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(159,98): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(159,98): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(159,98): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(159,98): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(159,98): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(159,77): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(159,77): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(159,77): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(159,77): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\Menu.cpp(159,77): warning C4244:         ]
+  Paddle.cpp
+  PauseMenu.cpp
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(64,91): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(64,91): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(64,91): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(64,91): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(64,91): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(64,70): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(64,70): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(64,70): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(64,70): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(64,70): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(68,97): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(68,97): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(68,97): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(68,97): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(68,97): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(68,76): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(68,76): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(68,76): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(68,76): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(68,76): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(72,98): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(72,98): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(72,98): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(72,98): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(72,98): warning C4244:         ]
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(72,77): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(72,77): warning C4244:         with
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(72,77): warning C4244:         [
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(72,77): warning C4244:             T=float
+C:\Users\Bartek\Desktop\career\BREAKOUT\PauseMenu.cpp(72,77): warning C4244:         ]
+  Generowanie kodu...
+  BREAKOUT.vcxproj -> C:\Users\Bartek\Desktop\career\BREAKOUT\x64\Debug\BREAKOUT.exe
